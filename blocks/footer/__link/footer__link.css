@@ -9,12 +9,15 @@
 	transition: opacity .5s ease-in-out;
 }
 .footer__link:hover{
-	opacity: 0.5;
+	opacity: 0.8;
+}
+.footer__list-item:last-of-type {
+	margin-right: 0;
 }
 @media screen and (max-width: 768px){
 	.footer__link{
 		font-size: 24px;
 		line-height: 24px;
-		margin: 0 16px 32px;
+		margin: 32px 16px 0;
 	}
 }
