@@ -6,12 +6,12 @@
 	max-width: 640px;
 	text-align: center;
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1023px){
 	.lead__subtitle{
 		margin-bottom: 56px;
 	}
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 767px){
 	.lead__subtitle{
 		font-size: 16px;
 		line-height: 20px;

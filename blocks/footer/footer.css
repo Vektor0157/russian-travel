@@ -4,18 +4,18 @@
 	display: flex;
 	justify-content: space-between;
 }
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1279px){
 	.footer{
 		width: calc(100% - 2 * 48px);
 	}
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1023px){
 	.footer{
 		padding: 88px 0 24px;
 		width: calc(100% - 2 * 24px);
 	}
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 767px){
 	.footer{
 		flex-direction: column;
 		justify-content: flex-start;
