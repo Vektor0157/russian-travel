@@ -1,4 +1,4 @@
-.lead__image-container{
+.lead__image-block {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

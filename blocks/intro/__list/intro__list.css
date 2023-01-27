@@ -6,8 +6,3 @@
 	font-size: 12px;
 	line-height: 18px;
 }
-@media (max-width: 768px){
-	.intro__list{
-		max-width: 288px;
-	}
-}
